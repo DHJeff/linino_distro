@@ -1,7 +1,7 @@
 # GENERAL PURPOSE
 
 config system
-	option hostname	arduino
+	option hostname	whatsnext
 	option timezone	UTC
 
 config timeserver ntp

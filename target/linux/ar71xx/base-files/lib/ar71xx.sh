@@ -459,10 +459,10 @@ ar71xx_board_detect() {
 	*"Linino Lei")
 		name="linino-lei"
 		;;
-	*"Arduino Yun-Mini")
+	*"Whatsnext Blue")
 		name="linino-yun-mini"
 		;;
-	*"Arduino Yun")
+	*"Whatsnext Turquoise")
 		name="linino-yun"
 		;;
 	esac
